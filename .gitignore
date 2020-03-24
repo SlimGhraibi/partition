@@ -1,0 +1,7 @@
+# custom ignored files
+
+!.mvn/wrapper/maven-wrapper.jar
+
+/target/
+/.idea
+*.iml

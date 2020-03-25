@@ -5,7 +5,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
 
 /**
- * javadoc
+ * @Auteur : Slim GHRAIBI
  */
 public class Partition {
     static AtomicInteger counter = new AtomicInteger();
